@@ -63,9 +63,9 @@ Under the fourth option we find technical support! Bingo! We can recover the pas
 </p>
 
 Using the numbers, enter the login. And at the end we add "#" for input: <code>222 222 7777 6 444 8 44 #</code>
-<br><br>In response, we receive a warning that we can restore this account only by correctly answering the question.</br></br>
+<br>In response, we receive a warning that we can restore this account only by correctly answering the question.</br>
 As an answer, we need to enter the favorite city of the CEO. We got this information in the first menu option. It's <code>Albany</code>.
-<br><br>Using the keyboard, enter the name of the city. If we see "two letters on one number", then we need to add "0". And at the end we add "#" for input: <code>2 555 22 0 2 66 999 #</code> </br></br>
+<br>Using the keyboard, enter the name of the city. If we see "two letters on one number", then we need to add "0". And at the end we add "#" for input: <code>2 555 22 0 2 66 999 #</code> </br>
 Password reset! New password: <code>monkey_alpaca_excellent_button_7435</code>
 
 Log in to the site and get the flag: <code>DawgCTF{y0ur_c4ll_1s_v3ry_1mp0rt4nt_t0_u5}</code>
