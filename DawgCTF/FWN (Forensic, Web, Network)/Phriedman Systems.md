@@ -29,7 +29,9 @@ Disallow: /login.html</pre>
 
 Let's check this page.
 
-![43214](https://user-images.githubusercontent.com/79190893/117558742-350ba900-b0c3-11eb-8ec1-53d626f55f31.PNG)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79190893/117558742-350ba900-b0c3-11eb-8ec1-53d626f55f31.PNG">
+</p>
 
 As we can see, first we need to find out the SEO's login. 
 
@@ -43,7 +45,9 @@ On the <code>"Employees"</code>: <code>Rob Fiddson - Mechanical Engineer: rfidds
 Based on this, we can see that the login is the first letter of the name + last name! Thus, the SEO login: <code>csmith</code>
 Let's check it out. Correct!
 
-![изображение_2021-05-09_125326](https://user-images.githubusercontent.com/79190893/117559070-8c127d80-b0c5-11eb-8794-740664efd230.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79190893/117559070-8c127d80-b0c5-11eb-8794-740664efd230.png">
+</p>
 
 3. It remains to find out the password. 
 
@@ -55,7 +59,9 @@ Under the fourth option we find technical support! Bingo! We can recover the pas
 
 <br>In the picture below, you can see an example of a keyboard: </br>
 
-![klava](https://user-images.githubusercontent.com/79190893/117559349-e1e82500-b0c7-11eb-8b69-8f4ec017ac3e.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79190893/117559349-e1e82500-b0c7-11eb-8b69-8f4ec017ac3e.jpg">
+</p>
 
 Using the numbers, enter the login. And at the end we add "#" for input: <code>222 222 7777 6 444 8 44 #</code>
 
