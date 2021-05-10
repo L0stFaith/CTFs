@@ -56,21 +56,16 @@ Unfortunately, having carefully researched the entire site, I could not find inf
 The answering machine offers us a choice of menu options.
 <br>Having used all the menu options, we can notice that the first option allows us to get more detailed information about the company. It may be useful!</br>
 Under the fourth option we find technical support! Bingo! We can recover the password by login! Next, using the keyboard, we need to specify the login. 
-
-<br>In the picture below, you can see an example of a keyboard: </br>
+<br><br>In the picture below, you can see an example of a keyboard: </br></br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79190893/117559349-e1e82500-b0c7-11eb-8b69-8f4ec017ac3e.jpg">
 </p>
 
 Using the numbers, enter the login. And at the end we add "#" for input: <code>222 222 7777 6 444 8 44 #</code>
-
-<br>In response, we receive a warning that we can restore this account only by correctly answering the question.</br>
-
+<br><br>In response, we receive a warning that we can restore this account only by correctly answering the question.</br></br>
 As an answer, we need to enter the favorite city of the CEO. We got this information in the first menu option. It's <code>Albany</code>.
-
-<br>Using the keyboard, enter the name of the city. If we see "two letters on one number", then we need to add "0". And at the end we add "#" for input: <code>2 555 22 0 2 66 999 #</code> </br>
-
+<br><br>Using the keyboard, enter the name of the city. If we see "two letters on one number", then we need to add "0". And at the end we add "#" for input: <code>2 555 22 0 2 66 999 #</code> </br></br>
 Password reset! New password: <code>monkey_alpaca_excellent_button_7435</code>
 
 Log in to the site and get the flag: <code>DawgCTF{y0ur_c4ll_1s_v3ry_1mp0rt4nt_t0_u5}</code>
